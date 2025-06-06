@@ -16,7 +16,7 @@ A clean and simple To-Do List web application built using **HTML**, **CSS**, and
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile](Screenshots/mobile.png) | ![Desktop](screenshots/Desktop.png) |
+| ![Mobile](Screenshots/mobile.png) | ![Desktop](Screenshots/Desktop.png) |
 
 
 ## 🔧 Tech Stack
